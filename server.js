@@ -23,3 +23,5 @@ sequelize.sync({force: false}).then(() => {
   })
 });
 
+
+
